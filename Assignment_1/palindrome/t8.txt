@@ -1,0 +1,7 @@
+none of these are palindromes
+
+
+
+but this one is: bob
+
+so is this one: 12321
